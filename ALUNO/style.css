@@ -1,0 +1,28 @@
+/*CLASSE DO BODY*/
+.bodyBackground {
+    background-image: url("tela.png");
+    background-position: center;
+    background-size: cover;/*significa tamanho da tela*/
+  }
+
+  /*TAG COM COR E TAM DE FONTE*/
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  /*ID PARA ALTERAR BORDA, COR E O ESTILO*/
+  #myCanvas
+  {
+      border-width:10px;
+      /*...INSERIR O RESTANTE DO CÓDIGO AQUI*/
+  }
+
+  /*ALTERAR O TAMANHO DE TUDO QUE ESTIVER NA TAG SPAN*/
+  span
+  {
+      font-size: 20px;
+  }
+  
+
